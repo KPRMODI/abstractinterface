@@ -1,5 +1,3 @@
-
-
 public class Dragon extends Enemy{
  
     // Create constructor (call super)

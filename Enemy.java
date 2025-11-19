@@ -1,5 +1,3 @@
-
- 
 abstract class Enemy {
  
     // Add protected instance variables:
